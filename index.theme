@@ -1,0 +1,37 @@
+[Icon Theme]
+Name=progwicons
+Name[ru]=прогвиконки
+Comment=icon theme by progwi0
+Comment[ru]=тема иконок от progwi0
+
+Directories=48x48/apps,48x48/devices,48x48/categories,48x48/actions,48x48/emblems,48x48/emotes,48x48/mimetypes,48x48/places,48x48/panel,48x48/status
+
+[48x48/apps]
+Context=Applications
+Size=48
+Type=Fixed
+
+[48x48/mimetypes]
+Context=MimeTypes
+Size=48
+Type=Fixed
+
+[48x48/places]
+Context=Places
+Size=48
+Type=Fixed
+
+[48x48/categories]
+Context=Categories
+Size=48
+Type=Fixed
+
+[48x48/actions]
+Context=Actions
+Size=48
+Type=Fixed
+
+[48x48/status]
+Context=Status
+Size=48
+Type=Fixed
